@@ -1,0 +1,5 @@
+chodzi o to zebny polaczyc dzialanie main i punkty
+mniej wiecej chodzi o to ze zaznaczam to co chce na zdj czyli te punkty a potem uzywam to getperspectivetransform
+i pokazuje zdj przerobione i tyle w sumie.
+Bo teraz main dziala tak ze wczytujesz zdj i recznie musisz wpisac rozmiary .
+A te punkty działaja tak ze jak odpalisz wczytuje ci sie foto i mozesz na nich punkty wybierac i ci sie wyswietlaja w pikselach 
